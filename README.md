@@ -1,7 +1,9 @@
 code_challange
+
 A simple code to process a backend system like twitter.
 
 REST METHODS:
+
 POST/user/addNewUser - create new user with patrameter "name"
 
 GET /user/list - get list of users
